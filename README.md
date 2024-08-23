@@ -11,7 +11,7 @@ Subnet: A segment of the VNet.
 Network Interface (NIC): Connects the VM to the VNet.
 Windows Virtual Machine (VM): A virtual machine running Windows Server.
 Service Plan: Used for managing an App Service.
-
+ 
 
 
 ## Prerequisites
